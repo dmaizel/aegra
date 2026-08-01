@@ -1,0 +1,47 @@
+libs/aegra-api/tests/unit/test_services/test_run_status.py
+  s_8f780a571c881d::t_8c1ee2d8e7cbb9 7-13,108-120,127-137,150,157,171
+  s_8f780a571c881d::t_0b5cf883501b3b 124
+  s_8f780a571c881d::t_36c9fdddb50262 121-123,125-126,153-156
+libs/aegra-api/tests/unit/test_services/test_lease_reaper.py
+  s_8f780a571c881d::t_8c1ee2d8e7cbb9 161,166-172,176
+libs/aegra-api/src/aegra_api/services/redis_broker.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 25,379
+  s_8f780a571c881d::t_8a827da9d0df89 150,396,413-414
+libs/aegra-api/src/aegra_api/models/enums.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 30-32
+libs/aegra-api/src/aegra_api/services/run_status.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 80-81,96,105,116-117,132,151
+libs/aegra-api/src/aegra_api/services/lease_reaper.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 224,228-232
+libs/aegra-api/src/aegra_api/services/broker.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 15,149
+libs/aegra-api/src/aegra_api/api/runs.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 24,48,58-63,464
+libs/aegra-api/tests/e2e/test_runs/test_run_reconciliation_e2e.py
+  s_8f780a571c881d::t_d56f6b53912620 7,21,111,141,170,191
+  s_8f780a571c881d::t_7d4b9e49be37b3 32,82-95,102,109-110,112-122,140,142,151,173,187-190,192-210
+  s_8f780a571c881d::t_d463e51b760aab 22
+  s_8f780a571c881d::t_b349d8f1397490 211-212
+libs/aegra-api/src/aegra_api/services/base_broker.py
+  s_8f780a571c881d::t_3e19c4cf8d26ab 7-8,80
+libs/aegra-api/tests/unit/test_api/test_runs.py
+  s_8f780a571c881d::t_8c1ee2d8e7cbb9 294
+docs/openapi.json
+  s_8f780a571c881d::t_08808817f714e9 6,2298-2301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "4b210c13e7bfba3c9092f6769fd818504211f742",
+  "prompts": {},
+  "sessions": {
+    "s_8f780a571c881d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbe73-9ab2-7971-8e4e-fb38a578b455",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}

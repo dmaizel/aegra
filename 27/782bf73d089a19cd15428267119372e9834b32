@@ -1,0 +1,53 @@
+docs/guides/worker-architecture.mdx
+  s_8f780a571c881d::t_2295a2e96dc654 189-193
+  s_8f780a571c881d::t_ff77395d5afa5c 230-235,246-258
+libs/aegra-cli/pyproject.toml
+  s_8f780a571c881d::t_4e14a4a22350a6 3
+libs/aegra-api/src/aegra_api/services/run_status.py
+  s_8f780a571c881d::t_2d9afe907b4462 9,14,25,76-147
+  s_8f780a571c881d::t_796f61b1815974 148-149
+libs/aegra-api/src/aegra_api/services/lease_reaper.py
+  s_8f780a571c881d::t_27e857fb2b4d3d 21,207,212-216,222,224,226-229
+libs/aegra-api/src/aegra_api/api/runs.py
+  s_8f780a571c881d::t_7c5f9284104c24 12,27,44-69
+  s_8f780a571c881d::t_f18b99ba742374 275,485,497
+  s_8f780a571c881d::t_70e0d633bf84d6 484
+  s_8f780a571c881d::t_5726189e63f2fc 70-71
+libs/aegra-api/tests/unit/test_services/test_lease_reaper.py
+  s_8f780a571c881d::t_5aceb805428d0b 170
+  s_8f780a571c881d::t_a7bce71ef887f7 161
+libs/aegra-api/tests/unit/test_services/test_run_status.py
+  s_8f780a571c881d::t_c1bf8ad606bc32 7,102-135
+  s_8f780a571c881d::t_3ae4b17da28180 136-137
+libs/aegra-api/tests/integration/test_api/test_runs_crud.py
+  s_8f780a571c881d::t_4d4e66aaf764be 332-339,345
+libs/aegra-api/pyproject.toml
+  s_8f780a571c881d::t_4e14a4a22350a6 3
+libs/aegra-api/tests/unit/test_api/test_runs.py
+  s_8f780a571c881d::t_bf2ac17d265491 273,275-285,294,296-297,300-333
+  s_8f780a571c881d::t_77882ad5462163 334
+libs/aegra-api/tests/e2e/test_runs/test_run_reconciliation_e2e.py
+  s_8f780a571c881d::t_60253e2bcf4092 44
+  s_8f780a571c881d::t_f09fdc8e7fbd44 15,33,40-43,45-53,68,87
+  s_8f780a571c881d::t_facfc989a03b35 63
+  s_8f780a571c881d::t_ab702b8b3a763e 19,128-131,156-159,184
+  s_8f780a571c881d::t_ac60427c17b1bb 1-14,16-18,20-32,34-39,54-62,64-67,69-86,88-127,132-155,160-183,185-188
+uv.lock
+  s_8f780a571c881d::t_26cbc3a2c89280 18,103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "27782bf73d089a19cd15428267119372e9834b32",
+  "prompts": {},
+  "sessions": {
+    "s_8f780a571c881d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbe73-9ab2-7971-8e4e-fb38a578b455",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}

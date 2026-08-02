@@ -1,0 +1,19 @@
+libs/aegra-api/src/aegra_api/services/run_status.py
+  s_8f780a571c881d::t_7cbf271853e182 116-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "da3021bcd4a552ad6a05f5f8c98e9e10fed9611a",
+  "prompts": {},
+  "sessions": {
+    "s_8f780a571c881d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbe73-9ab2-7971-8e4e-fb38a578b455",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+libs/aegra-api/tests/unit/test_services/test_worker_executor.py
+  s_8f780a571c881d::t_d2516c5c1ca1d1 699-712,714-717,719-733
+  s_8f780a571c881d::t_45669eb61382ad 697-698,713,718
+  s_8f780a571c881d::t_5c12bb57751991 696
+libs/aegra-api/src/aegra_api/services/worker_executor.py
+  s_8f780a571c881d::t_31e16e65d61e03 57-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "8d5896e4999d01a46f5fe2a0bea587111c48991c",
+  "prompts": {},
+  "sessions": {
+    "s_8f780a571c881d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbe73-9ab2-7971-8e4e-fb38a578b455",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+libs/aegra-api/src/aegra_api/services/worker_executor.py
+  s_8f780a571c881d::t_cb473b0252fc3c 48-82,277-278
+libs/aegra-api/tests/e2e/test_runs/test_run_reconciliation_e2e.py
+  s_8f780a571c881d::t_e4662e0d56edbe 334,336
+libs/aegra-api/tests/unit/test_services/test_worker_executor.py
+  s_8f780a571c881d::t_cb473b0252fc3c 4,569
+  s_8f780a571c881d::t_e4662e0d56edbe 568,570-580,686-752
+  s_8f780a571c881d::t_f058232bb4dff2 753-754
+libs/aegra-api/tests/unit/test_api/test_runs.py
+  s_8f780a571c881d::t_e449fc34de5409 87-90,111-112
+  s_8f780a571c881d::t_e4662e0d56edbe 389-421,440-443,448,452-453
+  s_8f780a571c881d::t_fa6e18d38b64cd 388
+  s_8f780a571c881d::t_d9877b5c725e5f 454
+libs/aegra-api/tests/unit/test_services/test_run_status.py
+  s_8f780a571c881d::t_193df043ab75d5 253-256
+libs/aegra-api/src/aegra_api/api/runs.py
+  s_8f780a571c881d::t_cb473b0252fc3c 473-478,490-494
+libs/aegra-api/tests/unit/test_api/test_runs_streaming.py
+  s_8f780a571c881d::t_88df2c09cc1a08 82-85,115-116,164-167,218-221
+libs/aegra-api/tests/unit/test_services/test_lease_reaper.py
+  s_8f780a571c881d::t_e4662e0d56edbe 110-138
+docs/openapi.json
+  s_8f780a571c881d::t_d84dcc99910d10 2258,2287,2291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "407d64d836b11a06fde7d9c01230e9411708fce1",
+  "prompts": {},
+  "sessions": {
+    "s_8f780a571c881d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fbe73-9ab2-7971-8e4e-fb38a578b455",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}

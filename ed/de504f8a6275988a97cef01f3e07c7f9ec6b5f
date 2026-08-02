@@ -1,0 +1,21 @@
+libs/aegra-api/tests/unit/test_services/test_run_status.py
+  s_03ce79fda831b8::t_b07d9e481b7f27 99-153
+libs/aegra-api/src/aegra_api/services/run_status.py
+  s_03ce79fda831b8::t_14ea62a010a987 184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "edde504f8a6275988a97cef01f3e07c7f9ec6b5f",
+  "prompts": {},
+  "sessions": {
+    "s_03ce79fda831b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec77244c-6f29-487f-bbee-3080188832c7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "open-swe[bot] <open-swe@users.noreply.github.com>"
+    }
+  }
+}
